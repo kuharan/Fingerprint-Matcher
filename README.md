@@ -1,4 +1,4 @@
 # Fingerprint-Matcher
 A Simple finger print matcher program to experiment the threshold value.
-# Need Suggestions for Detecting Attacks using NSL-KDD
+# Maintained by Kuharan Bhowmik. Any issues:
 -- mail to: kuharan.bhowmik@gmail.com
